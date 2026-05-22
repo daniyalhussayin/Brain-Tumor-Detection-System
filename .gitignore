@@ -1,0 +1,15 @@
+# dataset folders
+Training/
+Testing/
+BraTS_dataset/
+
+# virtual environment
+venv/
+lungenv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# logs
+*.log
