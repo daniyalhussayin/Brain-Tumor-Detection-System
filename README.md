@@ -58,8 +58,8 @@ Brain-Tumor-Detection/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/daniyalhussayin/Brain-Tumor-Detection.git
-cd Brain-Tumor-Detection
+git clone https://github.com/daniyalhussayin/Brain-Tumor-Detection-System.git
+cd Brain-Tumor-Detection-System
 ```
 
 ---
